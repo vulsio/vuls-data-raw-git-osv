@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2023-1",
-	"modified": "2023-12-06T01:02:51.879638Z",
+	"modified": "2025-01-16T09:12:16.123048Z",
 	"published": "2023-02-17T00:00:00Z",
 	"aliases": [
 		"BIT-python-2023-24329",
+		"BIT-python-min-2023-24329",
 		"CVE-2023-24329"
 	],
 	"summary": "urlparse does not correctly handle schemes",

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2022-8",
-	"modified": "2023-12-06T01:01:47.688311Z",
+	"modified": "2025-01-16T09:12:05.968088Z",
 	"published": "2022-02-09T00:00:00Z",
 	"aliases": [
 		"BIT-python-2022-0391",
+		"BIT-python-min-2022-0391",
 		"CVE-2022-0391"
 	],
 	"summary": "urllib.parse should sanitize urls containing ASCII newline and tabs.",

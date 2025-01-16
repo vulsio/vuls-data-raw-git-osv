@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2020-7",
-	"modified": "2023-12-06T01:00:40.900098Z",
+	"modified": "2025-01-16T09:11:56.057090Z",
 	"published": "2020-01-28T18:35:58Z",
 	"aliases": [
 		"BIT-python-2020-8315",
+		"BIT-python-min-2020-8315",
 		"CVE-2020-8315"
 	],
 	"summary": "CVE-2020-8315: Unsafe DLL loading in getpathp.c on Windows 7",

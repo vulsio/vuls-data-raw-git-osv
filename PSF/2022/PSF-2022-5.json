@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2022-5",
-	"modified": "2023-12-06T01:01:02.104627Z",
+	"modified": "2025-01-16T09:11:50.394580Z",
 	"published": "2022-08-23T00:00:00Z",
 	"aliases": [
 		"BIT-python-2021-28861",
+		"BIT-python-min-2021-28861",
 		"CVE-2021-28861"
 	],
 	"summary": "http.server: Open Redirection if the URL path starts with //",

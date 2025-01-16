@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2022-9",
-	"modified": "2023-12-06T01:02:40.657296Z",
+	"modified": "2025-01-16T09:12:15.271574Z",
 	"published": "2022-11-06T00:00:00Z",
 	"aliases": [
 		"BIT-python-2022-42919",
+		"BIT-python-min-2022-42919",
 		"CVE-2022-42919"
 	],
 	"summary": "Linux specific local privilege escalation via the multiprocessing forkserver start method",

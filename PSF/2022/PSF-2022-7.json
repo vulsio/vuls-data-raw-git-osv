@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2022-7",
-	"modified": "2023-12-06T01:01:21.119191Z",
+	"modified": "2025-01-16T09:11:51.181564Z",
 	"published": "2022-03-04T00:00:00Z",
 	"aliases": [
 		"BIT-python-2021-3737",
+		"BIT-python-min-2021-3737",
 		"CVE-2021-3737"
 	],
 	"summary": "CVE-2021-3737: urllib HTTP client possible infinite loop on a 100 Continue response",

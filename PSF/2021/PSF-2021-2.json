@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2021-2",
-	"modified": "2023-12-06T01:01:10.043823Z",
+	"modified": "2025-01-16T09:11:59.684304Z",
 	"published": "2021-05-06T00:00:00Z",
 	"aliases": [
 		"BIT-python-2021-29921",
+		"BIT-python-min-2021-29921",
 		"CVE-2021-29921"
 	],
 	"summary": "ipaddress leading zeros in IPv4 address",

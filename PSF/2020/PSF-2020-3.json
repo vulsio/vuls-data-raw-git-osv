@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2020-3",
-	"modified": "2023-12-06T01:00:14.053907Z",
+	"modified": "2025-01-16T09:12:07.551955Z",
 	"published": "2020-06-18T00:00:00Z",
 	"aliases": [
 		"BIT-python-2020-14422",
+		"BIT-python-min-2020-14422",
 		"CVE-2020-14422"
 	],
 	"summary": "[CVE-2020-14422] Hash collisions in IPv4Interface and IPv6Interface",

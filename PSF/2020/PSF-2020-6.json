@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2020-6",
-	"modified": "2023-12-06T01:00:29.252193Z",
+	"modified": "2025-01-16T09:11:56.376268Z",
 	"published": "2020-10-22T02:47:40Z",
 	"aliases": [
 		"BIT-python-2020-27619",
+		"BIT-python-min-2020-27619",
 		"CVE-2020-27619"
 	],
 	"summary": "CJK codecs tests call eval() on content retrieved via HTTP",

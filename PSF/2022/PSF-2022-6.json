@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2022-6",
-	"modified": "2023-12-06T01:01:21.058749Z",
+	"modified": "2025-01-16T09:12:10.070566Z",
 	"published": "2022-03-07T00:00:00Z",
 	"aliases": [
 		"BIT-python-2021-3733",
+		"BIT-python-min-2021-3733",
 		"CVE-2021-3733"
 	],
 	"summary": "CVE-2021-3733: ReDoS in urllib.request",

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "PSF-2023-2",
-	"modified": "2024-08-05T14:41:00.430633Z",
+	"modified": "2025-01-17T17:44:30.984941Z",
 	"published": "2023-04-18T00:00:00Z",
 	"aliases": [
 		"BIT-python-2023-27043",
+		"BIT-python-min-2023-27043",
 		"CVE-2023-27043"
 	],
 	"summary": "Parsing errors in email/_parseaddr.py lead to incorrect value in email address part of tuple",
